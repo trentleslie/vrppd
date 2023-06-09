@@ -1,3 +1,6 @@
+# API keys, etc
+vrppd_api.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
